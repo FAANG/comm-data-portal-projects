@@ -1,0 +1,1 @@
+EuroFAANG is a coordinated effort to unravel the connection between the genetic make-up of an animal and the observable physical and physiological traits. The EuroFAANG projects aim to address challenges in farmed animal production.
