@@ -1,6 +1,6 @@
 Pipeline name	Assay type	Link	Documentation	Platform
 TAGADA: Transcript And Gene Assembly, Deconvolution, Analysis	RNA-seq 	https://github.com/FAANG/analysis-TAGADA	https://github.com/FAANG/analysis-TAGADA#readme	
-Analysis of Chromosome Conformation Capture data (Hi-C)	Hi-C	https://github.com/FAANG/analysis-hic	https://github.com/FAANG/analysis-hic#readme	 nf-core
+Analysis of Chromosome Conformation Capture data (Hi-C)	Hi-C	https://github.com/FAANG/analysis-hic	https://github.com/FAANG/analysis-hic#readme	nf-core
 ATAC-seq peak-calling, QC and differential analysis pipeline	ATAC-seq	https://github.com/FAANG/analysis-atacseq	https://github.com/FAANG/analysis-atacseq#readme	nf-core
 GENE-SWitCH project Iso-Seq analysis pipeline	Iso-seq	https://github.com/FAANG/analysis-isoseq	https://github.com/FAANG/analysis-isoseq#readme	nf-core
 A small-RNA sequencing analysis pipeline	smallRNA-seq	https://github.com/FAANG/analysis-smrnaseq	https://github.com/FAANG/analysis-smrnaseq#readme	nf-core
