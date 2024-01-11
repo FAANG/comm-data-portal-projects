@@ -6,5 +6,5 @@ BovReg/nf-cage  CAGE-seq    https://github.com/BovReg/nf-cage   https://github.c
 BovReg/nf-core-chipseq	ChIP-seq 	https://github.com/BovReg/nf-core-chipseq	https://github.com/BovReg/nf-core-chipseq#readme	nf-core
 BovReg/nf-core-atacseq	ATAC-seq 	https://github.com/BovReg/nf-core-atacseq	https://github.com/BovReg/nf-core-atacseq#readme	nf-core
 BovReg/nf-core-hic	HIC-seq 	https://github.com/BovReg/nf-core-hic	https://github.com/BovReg/nf-core-hic#readme	nf-core
-BovReg/nf-core-sarek    Variant Calling https://github.com/BovReg/nf-core-sarek https://github.com/BovReg/nf-core-sarek#readme	nf-core
-BovReg/BovReg_eQTL  eQTL analysis   https://github.com/BovReg/BovReg_eQTL   https://github.com/BovReg/BovReg_eQTL#readme    Nextflow
+BovReg/nf-core-sarek    Variant Calling     https://github.com/BovReg/nf-core-sarek     https://github.com/BovReg/nf-core-sarek#readme      nf-core
+BovReg/BovReg_eQTL      eQTL analysis       https://github.com/BovReg/BovReg_eQTL       https://github.com/BovReg/BovReg_eQTL#readme        Nextflow
