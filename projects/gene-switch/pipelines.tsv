@@ -5,3 +5,4 @@ ATAC-seq peak-calling, QC and differential analysis pipeline	ATAC-seq	https://gi
 GENE-SWitCH project Iso-Seq analysis pipeline	Iso-seq	https://github.com/FAANG/analysis-isoseq	https://github.com/FAANG/analysis-isoseq#readme	nf-core
 A small-RNA sequencing analysis pipeline	smallRNA-seq	https://github.com/FAANG/analysis-smrnaseq	https://github.com/FAANG/analysis-smrnaseq#readme	nf-core
 BayesRCO		https://github.com/fmollandin/BayesRCO	https://github.com/fmollandin/BayesRCO#readme	
+FAETHLite		https://github.com/BrnCPrz/liteFAETH	https://github.com/BrnCPrz/liteFAETH/blob/main/README.md
